@@ -1,0 +1,68 @@
+
+#header-img{
+    height:18rem;
+    width:100%;
+  }
+  #nav-bar {
+    overflow: hidden;
+    background-color: navy;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  
+    
+  
+    
+    display: flex;
+  
+    color: #f2f2f2;
+    text-align: center;
+  
+    font-size: 1.5rem;
+  
+  }
+  .nav-link{
+    color:white;
+    padding:2rem;
+    height:.5rem
+  }
+  h1{
+    text-align:center;
+    font-size: 5rem;
+    margin-top:0;
+    margin-bottom:0;
+    
+  }
+  h2{
+    font-size:3rem;
+    background-color:gray;
+    width:30%
+   
+  
+  }
+  .align{
+    padding-left:5rem;
+  }
+  .footer{
+    text-align:center;
+  
+  font-size:1.5rem;
+  background-color:gray;
+  }
+  .watch{
+    float:right;
+    height:20rem ;
+    width:30rem ;
+    padding-bottom:5rem
+  }
+  body{
+    background-color:azure
+  }
+  #Offers{
+   font-family:Helvatica;
+  
+  }
+  #Craftsmanship and Functionality{
+    margin-left:5rem;
+  
+  }
